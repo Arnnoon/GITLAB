@@ -24,7 +24,7 @@ void main()
     if (strcmp(G,"A") ==0)
     {
       printf("%s, A. Hey, you can give blood to: A, AB.\n", Name);
-      printf("  You can receive blood from: A, O.\n");
+      printf("  You can receive blood from: A, O only ja.\n");
     }
     else if (strcmp(G, "B") ==0)
     {
